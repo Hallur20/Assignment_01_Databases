@@ -11,4 +11,5 @@ In order to make it work, clone the project first and then you have two options:
   <li>2. Open the project folder and navigate to the runProject folder. Then click on start.bat in order to run the project in the command prompt</li>
 </ul>
 
-
+<p>Now that you have a terminal set up and working you should be greeted by these instructions:</p>
+<p>welcome! instructions:\n\ttype 'get all' to find all data\n\ttype 'get <key value>' to find a key-row!\n\ttype 'set <key value> <name value> <age value>' to create something!\n\ttype 'instructions' to see instructions again\n\ttype 'exit' to close program</p>
