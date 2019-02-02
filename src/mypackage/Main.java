@@ -7,7 +7,7 @@ public class Main {
 
     static String path = System.getProperty("user.dir") + "\\Files\\binaryFile.txt";
     static Scanner scanner = new Scanner(System.in);
-    static String instructions = "welcome! instructions:\n\ttype 'get all' to find all data\n\ttype 'get <key value>' to find a key-row!\n\ttype 'set <key value> <name value> <age value>' to create something!\n\ttype 'instructions' to see instructions again\n\ttype 'hashmap' to see the keys and their offsets in the binary file\n\ttype 'exit' to close program";
+    static String instructions = "welcome! instructions:\n\ttype 'get all' to find all data\n\ttype 'get <key value>' to find a key-row!\n\ttype 'set <key value> <name value> <age value>' to create something!\n\ttype 'instructions' to see instructions again\n\ttype 'hashmap' to see the keys and their offsets from the binary file\n\ttype 'exit' to close program";
 
     public static void main(String[] args) throws IOException {
         Logic logic = new Logic();
