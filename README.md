@@ -4,7 +4,8 @@
 
 In order to make it work, clone the project first and then you have two options:
 <ul>
-  <li>1. Open the project folder in netbeans and then push 'F6' to run it in the output terminal</li>
+  <li>1. Open the project folder in netbeans IDE and then push 'F6' to run it in the output terminal</li>
+  <li>2. </li>
 </ul>
 
 </p>
