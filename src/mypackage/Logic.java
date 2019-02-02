@@ -62,4 +62,7 @@ public class Logic {
         }
         System.out.println(all);
     }
+    public void showHashMap(){
+        System.out.println(hm);
+    }
 }
