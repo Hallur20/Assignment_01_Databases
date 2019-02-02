@@ -15,3 +15,9 @@ In order to make it work, clone the project first and then you have two options:
 <p>welcome! instructions:<br><emsp>type 'get all' to find all data<br><emsp>type 'get <key value>' to find a key-row!<br><emsp>type 'set <key value> <name value> <age value>' to create something!<br><emsp>type 'instructions' to see instructions again<br><emsp>type 'exit' to close program</p>
   
 <p>these are commands you can type, in order to make something happen. Here are some examples on what you can write:</p>
+
+get all -> shows all data in binary file...
+get 25 -> shows (if there is any) the data that has to do with id-key 25.
+set 24 Peter 31 -> inserts data with the id-key of 24. Name is Peter and his age is 31.
+instructions -> shows the instructions again that were shown when the program started.
+exit -> exits the program.
