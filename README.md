@@ -2,7 +2,7 @@
 
 <p>this project uses a binary file (binaryFile.txt) as it's form for a database.</p>
 
-<p>In this program you will be able to choose between options in the database such as: see all data, insert new data, see data depending on the id-key</p>
+<p>In this program you will be able to choose between options in the database such as: <b>see all data, insert new data, see data depending on the id-key</b></p>
 
 
 In order to make it work, clone the project first and then you have two options:
