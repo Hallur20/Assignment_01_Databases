@@ -16,8 +16,8 @@ In order to make it work, clone the project first and then you have two options:
   
 <p>these are commands you can type, in order to make something happen. Here are some examples on what you can write:</p>
 
-get all -> shows all data in binary file...
-get 25 -> shows (if there is any) the data that has to do with id-key 25.
-set 24 Peter 31 -> inserts data with the id-key of 24. Name is Peter and his age is 31.
-instructions -> shows the instructions again that were shown when the program started.
-exit -> exits the program.
+<p>get all -> shows all data in binary file...</p>
+<p>get 25 -> shows (if there is any) the data that has to do with id-key 25.</p>
+<p>set 24 Peter 31 -> inserts data with the id-key of 24. Name is Peter and his age is 31.</p>
+<p>instructions -> shows the instructions again that were shown when the program started.</p>
+<p>exit -> exits the program.</p>
