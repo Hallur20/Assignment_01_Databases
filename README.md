@@ -1,8 +1,9 @@
 # Assignment_01_Databases
 
-<p>this project uses a binary file (binaryFile.txt) as it's form for a database.
-In this program you will be able to choose between options in the database such as: see all data, insert new data, see data depending on the id-key, 
-</p>
+<p>this project uses a binary file (binaryFile.txt) as it's form for a database.</p>
+
+<p>In this program you will be able to choose between options in the database such as: see all data, insert new data, see data depending on the id-key</p>
+
 
 In order to make it work, clone the project first and then you have two options:
 <ul>
