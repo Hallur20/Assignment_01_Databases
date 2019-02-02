@@ -20,4 +20,5 @@ In order to make it work, clone the project first and then you have two options:
 <p>get 25 -> shows (if there is any) the data that has to do with id-key 25.</p>
 <p>set 24 Peter 31 -> inserts data with the id-key of 24. Name is Peter and his age is 31.</p>
 <p>instructions -> shows the instructions again that were shown when the program started.</p>
+<p>hashmap -> shows the keys / offsets saved in the hashmap</p>
 <p>exit -> exits the program.</p>
