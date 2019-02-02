@@ -12,4 +12,6 @@ In order to make it work, clone the project first and then you have two options:
 </ul>
 
 <p>Now that you have a terminal set up and working you should be greeted by these instructions:</p>
-<p>welcome! instructions:<br><nbsp>type 'get all' to find all data<br><nbsp>type 'get <key value>' to find a key-row!<br><nbsp>type 'set <key value> <name value> <age value>' to create something!<br><nbsp>type 'instructions' to see instructions again<br><nbsp>type 'exit' to close program</p>
+<p>welcome! instructions:<br><emsp>type 'get all' to find all data<br><emsp>type 'get <key value>' to find a key-row!<br><emsp>type 'set <key value> <name value> <age value>' to create something!<br><emsp>type 'instructions' to see instructions again<br><emsp>type 'exit' to close program</p>
+  
+<p>these are commands you can type, in order to make something happen. </p>
