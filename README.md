@@ -25,4 +25,4 @@ In order to make it work, clone the project first and then you have two options:
 <p>exit -> exits the program.</p>
 
 
-<p>this was made by Hallur við Neyst, software development in cphbusiness lyngby</p>
+<i>this was made by Hallur við Neyst, software development in cphbusiness lyngby</i>
