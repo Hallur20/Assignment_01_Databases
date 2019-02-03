@@ -23,3 +23,6 @@ In order to make it work, clone the project first and then you have two options:
 <p>instructions -> shows the instructions again that were shown when the program started.</p>
 <p>hashmap -> shows the keys / offsets saved in the hashmap</p>
 <p>exit -> exits the program.</p>
+
+
+<p>this was made by Hallur við Neyst, software development in cphbusiness lyngby</p>
