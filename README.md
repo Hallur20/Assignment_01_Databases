@@ -24,5 +24,5 @@ In order to make it work, clone the project first and then you have two options:
 <p>hashmap -> shows the keys / offsets saved in the hashmap</p>
 <p>exit -> exits the program.</p>
 
-
+<br/>
 <i>this was made by Hallur við Neyst, software development in cphbusiness lyngby</i>
